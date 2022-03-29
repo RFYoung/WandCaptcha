@@ -1,3 +1,10 @@
-.idea/
-.vscode/
-venv/
+.idea/**
+.vscode/**
+venv/**
+
+# to test image
+*.png
+
+# do not upload font and test.py
+font/**
+test.py
